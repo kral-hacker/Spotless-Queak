@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "78826189253",
+    "project_id": "spotless-queak",
+    "storage_bucket": "spotless-queak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78826189253:android:3b82c007cbe66096e41bac",
+        "android_client_info": {
+          "package_name": "com.example.spotlessqueak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78826189253-8dudvcklefplcea0sd15cqmvtp4dbt85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh72n1vBtssK9sa7yY-CAVOFEj4d5e-JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78826189253-8dudvcklefplcea0sd15cqmvtp4dbt85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
